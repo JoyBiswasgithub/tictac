@@ -39,8 +39,5 @@ The board is a 3x3 grid represented by numbers 1 through 9. When prompted to mak
     python 1.1 Tictac.py
     ```
 
-4. Follow the instructions in the terminal to play the game.
-
-## Example Output
 
 
